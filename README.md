@@ -1,6 +1,11 @@
-### Hi there 👋
+
+* [About me](/AboutMe.md)
+
+* [About me (Japanese / 日本語)](/AboutMe_JA.md)
 
 <!--
+### Hi there 👋
+
 **YukinobuKurata/YukinobuKurata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
