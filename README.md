@@ -1,9 +1,15 @@
-
 * [About me](/AboutMe.md)
+
+* [About me (Japanese / 日本語)](https://wisdommingle.com/)
+
+
+<!--
+
+* [About me (Japanese / 日本語)](https://wisdommingle.com/)
 
 * [About me (Japanese / 日本語)](/AboutMe_JA.md)
 
-<!--
+
 ### Hi there 👋
 
 **YukinobuKurata/YukinobuKurata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
