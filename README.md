@@ -1,6 +1,6 @@
 * [About me](https://wisdommingle.com/?p=28053)
 
-* [About me (Japanese / 日本語)](https://wisdommingle.com/?p=22602)
+* [About me (Japanese : 日本語)](https://wisdommingle.com/?p=22602)
 
 
 <!--
