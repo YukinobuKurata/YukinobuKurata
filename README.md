@@ -1,6 +1,6 @@
-* [About my activities](https://wisdommingle.com/?p=28053)
+* [Introduction of my activities](https://wisdommingle.com/?p=28053)
 
-* [About my activities (Japanese : 日本語)](https://wisdommingle.com/?p=22602)
+* [Introduction of my activities (Japanese : 日本語)](https://wisdommingle.com/?p=22602)
 
 
 <!--
